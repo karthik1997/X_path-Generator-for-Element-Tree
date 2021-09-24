@@ -25,6 +25,6 @@ Jupyter Notebook Version is also Availiable.
 ## Test Results
 ### Demo1
 <p align="center">
-  <img src="karthik.png">
+  <img src="image.jpg">
 </p> 
 
