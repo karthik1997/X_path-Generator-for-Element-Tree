@@ -1,4 +1,4 @@
-# X_path-Generator-for-Element-Tree
+# X_path-Generator-for-ElementTree
 
 
 ## Problem Definition
